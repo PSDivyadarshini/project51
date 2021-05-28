@@ -1,0 +1,51 @@
+ h1{
+ color:blue
+ }
+ hr{
+     color: #000000;
+ }
+ 
+ .header{
+     background-color: rgb(174, 202, 253);
+     display: flex;
+     justify-content: space-between;
+     padding-left: 800px;
+
+ }
+ .item{
+     border-radius: 20px;
+     background-color: white;
+     width: 310px;
+     font-family: fantasy;
+     
+
+ }
+ .grid{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+
+ .grid img{
+ border: 2px solid black;
+ border-radius: 50px;
+
+ }
+ .menu{
+     display:flex;
+     justify-content: space-between;
+     background-color:rgb(00,00,00);
+     padding:15px;
+     font-size: 20px;
+     font-weight: 400;
+     color: #ffffff;
+ }
+ body{
+   border:3px solid;  
+   background-color: #facaf8;
+}
+
+
+ 
+ 
+ 
